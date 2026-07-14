@@ -186,7 +186,7 @@ Intentionally vulnerable e-commerce built from scratch for a 4-hour InfoSec mini
 
 ```text
 IT Engineer @ Space Financial Group — internal ops + external client delivery
-5th semester, Information Systems, Brasil
+6th semester, Information Systems, Brasil
 ```
 
 ---
