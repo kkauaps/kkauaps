@@ -193,7 +193,7 @@ IT Engineer @ Space Financial Group — internal ops + external client delivery
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/pablokaua03)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/pablo-kaua-pereira-silva)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/pablokaua03)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:1e1b4b,100:0d1117&height=100&section=footer" width="100%"/>
