@@ -44,6 +44,30 @@ languages: PT-BR, EN, ES
 | [**Contexta**](https://github.com/kkauaps/Contexta) | Open source | Python | Turns codebases into curated context packs for debugging, reviews and AI handoffs |
 
 ---
+## Stack
+
+<div align="center">
+
+**Languages & Web**<br/>
+<img src="https://skillicons.dev/icons?i=python,cs,ts,js,php,react,nextjs,laravel,tailwind,nodejs,firebase&theme=dark" />
+
+**Infra, DevOps & OS**<br/>
+<img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,windows,powershell,aws,vercel,cloudflare,nginx,githubactions,git&theme=dark" />
+
+**Automation, CRM & AI**<br/>
+![n8n](https://img.shields.io/badge/n8n-0d1117?style=for-the-badge&logo=n8n&logoColor=ea4b71)
+![HubSpot](https://img.shields.io/badge/HubSpot-0d1117?style=for-the-badge&logo=hubspot&logoColor=ff7a59)
+![LiveKit](https://img.shields.io/badge/LiveKit-0d1117?style=for-the-badge&logo=webrtc&logoColor=818CF8)
+![Ollama](https://img.shields.io/badge/Ollama-0d1117?style=for-the-badge&logo=ollama&logoColor=ffffff)
+![Power BI](https://img.shields.io/badge/Power_BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+![OWASP](https://img.shields.io/badge/OWASP-0d1117?style=for-the-badge&logo=owasp&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logo=burpsuite&logoColor=FF6633)
+
+</div>
+
+---
+
+
 ## Activity
 
 <div align="center">
