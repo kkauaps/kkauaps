@@ -138,7 +138,7 @@ Production websites for **Magic Metals** and **Quality Hands**, including DNS, G
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
 ### SecureMart: Educational CTF
 `Node.js` `Express` `SQLite` `PostgreSQL` `Vercel`
@@ -146,7 +146,6 @@ Production websites for **Magic Metals** and **Quality Hands**, including DNS, G
 Intentionally vulnerable e-commerce built for a 4-hour InfoSec mini-course I designed and taught. 10+ stages: SQL injection, IDOR, JWT tampering, prompt injection on an AI chatbot, supply chain attack, price manipulation and exposed debug endpoints. Live scoreboard, flag submission and a terminal simulator with 30+ commands.
 
 </td>
-<td width="50%" valign="top"></td>
 </tr>
 <tr>
 <td width="50%" valign="top">
