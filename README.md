@@ -32,6 +32,42 @@ languages: PT-BR, EN, ES
 <tr>
 <td width="50%" valign="top">
 
+### SpaceBooks
+`React` `Laravel` `PostgreSQL` `CardPointe` `DigitalOcean` `GitHub Actions`
+
+Accounting and billing SaaS for Space Financial Group clients. Multi-company workspaces, members and roles, invoices with PDF and online payment via CardPointe, transactions with AI classification, reports, payroll, timesheets and subscription billing. I lead the product, infra, sandbox and production releases.
+
+</td>
+<td width="50%" valign="top">
+
+### USAR Integrations
+`Laravel` `n8n` `REST APIs` `Webhooks` `Docker`
+
+Integration layer connecting the group's systems: CRM, accounting, payments, email and internal tools. Syncs data between platforms, handles webhooks and automates the flows between companies.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Space Dispatch
+`Laravel` `React` `Docker` `Cloudflare` `DigitalOcean`
+
+Dispatch and operations platform for the U.S. market, with its own domain, beta environment, HTTPS and deploy pipeline that I set up and maintain.
+
+</td>
+<td width="50%" valign="top">
+
+### Space Hub & Space Chat
+`React` `Laravel` `WebSockets` `AI`
+
+Internal hub that ties the group's apps together with a shared login and navigation, plus Space Chat for team and client messaging with an AI assistant built in.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### Space LATAM Portal
 `React` `Vite` `Laravel` `Filament` `Cloudflare` `DigitalOcean` `QuickBooks` `n8n`
 
