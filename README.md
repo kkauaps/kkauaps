@@ -35,15 +35,15 @@ languages: PT-BR, EN, ES
 ### SpaceBooks
 `React` `Laravel` `PostgreSQL` `CardPointe` `DigitalOcean` `GitHub Actions`
 
-Accounting and billing SaaS for Space Financial Group clients. Multi-company workspaces, members and roles, invoices with PDF and online payment via CardPointe, transactions with AI classification, reports, payroll, timesheets and subscription billing. I lead the product, infra, sandbox and production releases.
+Accounting and billing SaaS for Space Financial Group clients. Multi-company workspaces, members and roles, invoices with PDF and online payment via CardPointe, transactions with AI classification, reports, payroll, timesheets and subscription billing. I lead the product, infra and production releases.
 
 </td>
 <td width="50%" valign="top">
 
-### USAR Integrations
-`Laravel` `n8n` `REST APIs` `Webhooks` `Docker`
+### USAR Integrations: SF Tech Alerts & Labels
+`Laravel` `n8n` `Webhooks` `Label printing` `Docker`
 
-Integration layer connecting the group's systems: CRM, accounting, payments, email and internal tools. Syncs data between platforms, handles webhooks and automates the flows between companies.
+Field ops tooling for USAR: SF Tech Alerts pushing tech and job alerts to the team, plus printing and inventory label automation. Built to fix real daily pain, and the groundwork that grew into Space Dispatch.
 
 </td>
 </tr>
@@ -53,7 +53,7 @@ Integration layer connecting the group's systems: CRM, accounting, payments, ema
 ### Space Dispatch
 `Laravel` `React` `Docker` `Cloudflare` `DigitalOcean`
 
-Dispatch and operations platform for the U.S. market, with its own domain, beta environment, HTTPS and deploy pipeline that I set up and maintain.
+Born from the USAR alerts and label tools: one dispatch platform for field techs and jobs. Assignments, live status, tech alerts and printed job and inventory labels in a single flow. In production.
 
 </td>
 <td width="50%" valign="top">
@@ -61,19 +61,29 @@ Dispatch and operations platform for the U.S. market, with its own domain, beta 
 ### Space Hub & Space Chat
 `React` `Laravel` `WebSockets` `AI`
 
-Internal hub that ties the group's apps together with a shared login and navigation, plus Space Chat for team and client messaging with an AI assistant built in.
+Internal hub and team chat for the holding: shared login, multi-company switching, staff notifications and client messaging with an AI assistant built in. In production.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
+### Space Tickets
+`Laravel` `React` `Workflow`
+
+Internal ticketing and backlog tool I built for the Space team: requests, priorities and status in one place. In production.
+
+</td>
+<td width="50%" valign="top">
+
 ### Space LATAM Portal
 `React` `Vite` `Laravel` `Filament` `Cloudflare` `DigitalOcean` `QuickBooks` `n8n`
 
-Full-stack client portal for Space LATAM Solutions. Secure login, document management on Cloudflare R2 and client messaging. Financial module with transaction classification, reconciliation and staff approval, chart of accounts, bank CSV import, P&L, Balance Sheet and Cash Flow reports with PDF/CSV export, QuickBooks integration and a KPI dashboard. Invoice builder with PDF and email delivery. ES/PT/EN, CI/CD via GitHub Actions.
+Full-stack client portal serving the 350+ clients of Space LATAM Solutions. Secure login, document management on Cloudflare R2 and client messaging. Financial module with transaction classification, reconciliation and staff approval, chart of accounts, bank CSV import, P&L, Balance Sheet and Cash Flow reports with PDF/CSV export, QuickBooks integration and a KPI dashboard. Invoice builder with PDF and email delivery. ES/PT/EN, CI/CD via GitHub Actions.
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### Space Financial Group: Web & IT
@@ -82,8 +92,6 @@ Full-stack client portal for Space LATAM Solutions. Secure login, document manag
 Built and maintain all 4 holding websites (Space Virtual CFO, Staff Solutions, Taxes, LATAM Solutions) with custom CSS, responsive layouts, JSON-LD and HubSpot forms. DNS ownership across all domains (DKIM/SPF/DMARC, MX, migrations), Google Workspace admin (10+ users), CRM architecture and operational automation.
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### RevOps Pipeline
@@ -92,6 +100,8 @@ Built and maintain all 4 holding websites (Space Virtual CFO, Staff Solutions, T
 HubSpot, Meta Ads and WhatsApp attribution, opt-in and welcome automation, Power BI dashboards from HubSpot and Sheets, and cold email sequences across a 120k+ lead base.
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### Space LATAM Solutions: Landing Page
@@ -100,8 +110,6 @@ HubSpot, Meta Ads and WhatsApp attribution, opt-in and welcome automation, Power
 Lead generation page for LLC formation for foreigners. Custom design, JSON-LD, HubSpot form with conditional logic, n8n lead capture with WhatsApp/email follow-up, and Meta Ads conversion tracking.
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### Voice AI Agent: Space LATAM & Usar Biz
@@ -110,6 +118,8 @@ Lead generation page for LLC formation for foreigners. Custom design, JSON-LD, H
 Phone agent for lead qualification in EN/ES/PT. Collects name, phone, email (confirmed letter by letter) and business need. At the end of the call it sends a summary to n8n for CRM update, email notification and scheduling. Worker self-hosted 24/7 on a DigitalOcean Droplet with Docker.
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### Vibrantum Platform
@@ -118,8 +128,6 @@ Phone agent for lead qualification in EN/ES/PT. Collects name, phone, email (con
 Multilingual platform (ES/EN/FR) for a wellness brand: institutional site, LMS with lesson player and student dashboard, 80+ SKU catalog, Hotmart integration and a custom CMS.
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### Client Websites: U.S. Market
@@ -128,6 +136,8 @@ Multilingual platform (ES/EN/FR) for a wellness brand: institutional site, LMS w
 Production websites for **Magic Metals** and **Quality Hands**, including DNS, Google Workspace, JSON-LD and HubSpot forms.
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### SecureMart: Educational CTF
@@ -136,12 +146,13 @@ Production websites for **Magic Metals** and **Quality Hands**, including DNS, G
 Intentionally vulnerable e-commerce built for a 4-hour InfoSec mini-course I designed and taught. 10+ stages: SQL injection, IDOR, JWT tampering, prompt injection on an AI chatbot, supply chain attack, price manipulation and exposed debug endpoints. Live scoreboard, flag submission and a terminal simulator with 30+ commands.
 
 </td>
+<td width="50%" valign="top"></td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
 ### [BareWin](https://github.com/kkauaps/BareWin)
-`C#` `WPF` `PowerShell` `WiX` **MIT** [![release](https://img.shields.io/github/v/release/kkauaps/BareWin?style=flat-square&color=818CF8)](https://github.com/kkauaps/BareWin/releases/latest)
+`C#` `WinForms` `PowerShell` `WiX` **MIT** [![release](https://img.shields.io/github/v/release/kkauaps/BareWin?style=flat-square&color=818CF8)](https://github.com/kkauaps/BareWin/releases/latest)
 
 Windows uninstaller and debloat. Lists every app with icon, size, drive and folder (including per-user installs like Ollama), shows leftover files, folders and registry keys before deleting, and turns off telemetry, Copilot, Edge background, animations and transparency. Dark/light, EN/PT-BR, single `.exe` or MSI.
 
